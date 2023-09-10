@@ -7,10 +7,7 @@ The doodle dataset obtained from the Google Cloud website consists of various ca
 
 [Link to DataSet](https://drive.google.com/file/d/1Ci-cWxXxNtTXKVOIueS1TAKbxMKSutIb/view?usp=sharing)
 
-# Traing Plot
 
-
-![alt text](https://github.com/gaganchapa/Doodle_Classification/blob/main/train.png)
 
 # Sample Output
 
