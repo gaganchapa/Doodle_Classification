@@ -11,4 +11,4 @@ The doodle dataset obtained from the Google Cloud website consists of various ca
 
 # Sample Output
 
-![alt text](https://github.com/gaganchapa/Doodle_Classification/blob/main/RES.pNg)
+![alt text](https://github.com/gaganchapa/Doodle_Classification/blob/main/RES.png)
