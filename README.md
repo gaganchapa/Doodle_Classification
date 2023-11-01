@@ -15,7 +15,7 @@ The doodle dataset obtained from the Google Cloud website consists of various ca
 ![alt text](https://github.com/gaganchapa/Doodle_Classification/blob/main/model.png)
 
 Training Plot
-![alt text](https://github.com/gaganchapa/Doodle_Classification/blob/main/out.png)
+![alt text](https://github.com/gaganchapa/Doodle_Classification/blob/main/outt.png)
 
 Loss Plot
 ![alt text](https://github.com/gaganchapa/Doodle_Classification/blob/main/loss.png)
